@@ -1,16 +1,13 @@
 import React from "react";
 import { Link, NavLink } from "react-router-dom";
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 export default function Nav() {
   return (
     <>
       <div id="nav-bar">
         <a href="https://www.linkedin.com/in/tomas-wolfmann-35518a1a5/">
-          <img
-            className="logo"
-            src="https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/home.png"
-            alt="logo"
-          />
+        <FontAwesomeIcon icon="fa-solid fa-display-code" />
         </a>
 
         <nav>
@@ -69,14 +66,14 @@ export default function Nav() {
         <ul>
           <li>
             <a
-              href="https://www.instagram.com/smrnjeet_22/"
+              href="https://bio.link/tomiwolf"
               target="_blank"
               rel="noopener noreferrer"
             >
-              <i className="fab fa-instagram"></i>
+             <i className="fa-solid fa-up-right-from-square"></i>
             </a>
           </li>
-          <li>
+          {/* <li>
             <a
               href="https://www.reddit.com/user/smrnjeet_22"
               target="_blank"
@@ -93,7 +90,7 @@ export default function Nav() {
             >
               <i className="fab fa-itch-io"></i>
             </a>
-          </li>
+          </li> */}
         </ul>
       </div>
 

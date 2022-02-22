@@ -1,11 +1,24 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useRef } from "react";
 import bounce from "../script/bounce";
+import Lottie from "lottie-web";
+
 
 export default function About() {
+
+  const container = useRef(null)
+
   useEffect(() => {
+
     document.title = "Tomi Wolf  | About Me ";
 
     bounce();
+    Lottie.loadAnimation({
+      container:container.current,
+      renderer: 'svg',
+      loop: true,
+      autoplay: true,
+      animationData:require('../assets/about.json')
+     })
   }, []);
 
   return (
@@ -52,8 +65,7 @@ export default function About() {
             recently, Gaming.
             <br />
             <br />
-            Interested in the development spectrum and actively looking for an
-            opportunity in the field of Software Engineering.
+            Interested in the Blockchain, DEFI, Cryptos, NFTS, Trading, and actively looking for bussines oportunities
             <br />
             <br />
             Follow me on&nbsp;
@@ -76,13 +88,8 @@ export default function About() {
           &lt;/html&gt;
         </span>
       </div>
-      <div id="mysvg">
-        <img
-          alt="hacker"
-          src={`https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/code${
-            Math.floor(Math.random() * 3) + 2
-          }.svg`}
-        />
+      <div id="mysvg" ref={container}>
+        
       </div>
     </>
   );

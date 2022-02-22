@@ -32,20 +32,19 @@ export default function Skills() {
             <br />
             <br />
             Tech I know:
-            &nbsp;&nbsp; <b>Typescript &nbsp;|&nbsp; Solidity &nbsp;|&nbsp; Python  &nbsp;|&nbsp;  Rust </b><br />
+            &nbsp;&nbsp; <b>Typescript &nbsp;|&nbsp; Solidity &nbsp;|&nbsp; Javascript</b><br />
             <br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs, NextJs , GatsbyJs , Svelte<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; NodeJs , Express , MongoDB<br />
             &nbsp;&nbsp; • &nbsp;&nbsp; Blockchain | Ethereum | Solana<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; OpenCV , Image Processing<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; Data Science + Web Scraping + IT Automation<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; React Native<br />
-            &nbsp;&nbsp; • &nbsp;&nbsp; Blender + Unity3D<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; Hardhat, Truffle, Remix<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; ReactJs, NextJs <br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; Angular <br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; NodeJs , Express<br />
+            &nbsp;&nbsp; • &nbsp;&nbsp; Git, Adobe PS<br />
             <br />
             <br />
             Visit my&nbsp;
             <a
-              href="https://www.linkedin.com/in/smrnjeet222"
+              href="https://www.linkedin.com/in/tomas-wolfmann-35518a1a5/"
               style={{ color: "#23ffde" }}
             >
               LinkedIn&nbsp;

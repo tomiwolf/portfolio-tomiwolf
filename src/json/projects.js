@@ -1,11 +1,11 @@
 export const projects = [
   {
-    img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/mates.png",
+    img: "./projects_imgs/1920x600.png",
     name: "Donors",
     ext: "jsx",
     lang: "js",
-    git: "https://youtu.be/Zm4ptkIXlTA",
-    live: "http://mw.mait.ac.in/",
+    git: "https://github.com/tomiwolf/next_minting_dapp",
+    live: "https://boredcreepycapybaras.vercel.app/",
   },
   {
     img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/blog.jpg",

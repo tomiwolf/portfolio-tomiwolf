@@ -1,16 +1,29 @@
-import React, { useEffect } from "react";
-
-import Guitar from "./Guitar.js";
+import React, { useEffect, useRef } from "react";
 import bounce from "../script/bounce";
-import guitarAnim from "../script/guitarAnim";
+import Lottie from "lottie-web";
+
+
+// import Guitar from "./Guitar.js";
+// import guitarAnim from "../script/guitarAnim";
 
 export default function Home() {
+ const container = useRef(null)
+ 
   useEffect(() => {
     document.title =
       "Tomi Wolf  | Full Stack Developer | Blockchain Developer";
 
     bounce();
+
     // guitarAnim();
+
+    Lottie.loadAnimation({
+     container:container.current,
+     renderer: 'svg',
+     loop: true,
+     autoplay: true,
+     animationData:require('../assets/data.json')
+    })
 
     const s = document.querySelector(".Slast");
 
@@ -20,6 +33,10 @@ export default function Home() {
     return () => {
       s.style.opacity = 0;
       s.style.transform = "rotate(0deg)";
+
+
+
+
     };
   }, []);
 
@@ -88,11 +105,9 @@ export default function Home() {
           &lt;/html&gt;
         </span>
       </div>
-      <div id="mysvg">
-        <img
-          alt="hacker"
-          src={`https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/code1.svg`}
-        />
+      <div id="mysvg" ref={container}>
+
+       
 
         {/* <Guitar className="guitarSvg" />
         <audio id="audio-1">

@@ -39,14 +39,14 @@ export const projects = [
     git: "https://github.com/tomiwolf/nft-marketplace-BSC",
     live: "",
   },
-  // {
-  //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/covid.png",
-  //   name: "Python Apps",
-  //   ext: "py",
-  //   lang: "py",
-  //   git: "https://github.com/smrnjeet222/Python_Apps",
-  //   live: "https://github.com/smrnjeet222/Python_Apps",
-  // },
+  {
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/openseacarpis.png",
+    name: "Opensa",
+    ext: "Rinkeby",
+    lang: "py",
+    git: "https://github.com/tomiwolf/myNFTcollection",
+    live: "https://testnets.opensea.io/collection/bored-creepy-carpinchos",
+  },
   // {
   //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/surepass/bgvAll.png",
   //   name: "Surepass",

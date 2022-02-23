@@ -31,14 +31,14 @@ export const projects = [
     git: "https://github.com/tomiwolf/portfolio-tomiwolf/blob/main/src/assets/biolink.png",
     live: "https://bio.link/tomiwolf",
   },
-  // {
-  //   img: "https://cdn.jsdelivr.net/gh/tomiwolf/nft-marketplace-BSC@main/nftview.png",
-  //   name: "NFT MARKETPLACE",
-  //   ext: "js",
-  //   lang: "js",
-  //   git: "",
-  //   live: "https://smrnjeet222.github.io/Portfolio/",
-  // },
+  {
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/nftmarketplace.png",
+    name: "NFT MARKETPLACE",
+    ext: "BSC",
+    lang: "js",
+    git: "https://github.com/tomiwolf/nft-marketplace-BSC",
+    live: "",
+  },
   // {
   //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/covid.png",
   //   name: "Python Apps",

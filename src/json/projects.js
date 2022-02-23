@@ -24,12 +24,12 @@ export const projects = [
     live: "https://rock-paper-scissors-tw.netlify.app/",
   },
   {
-    img: "https://raw.githubusercontent.com/smrnjeet222/Python_Apps/master/Snake/Extras/play.png",
-    name: "Snake Game",
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/biolink.png",
+    name: "ExBiolink",
     ext: "py",
     lang: "py,games",
-    git: "https://github.com/smrnjeet222/Python_Apps/tree/master/Snake",
-    live: "https://github.com/smrnjeet222/Python_Apps/tree/master/Snake",
+    git: "https://github.com/tomiwolf/portfolio-tomiwolf/blob/main/src/assets/biolink.png",
+    live: "https://bio.link/tomiwolf",
   },
   {
     img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/portfolio.png",

@@ -17,7 +17,7 @@ import Contact from "./components/Contact";
 function Resume() {
 
   useEffect(() => {
-    window.location.href = "https://cdn.jsdelivr.net/gh/smrnjeet222/smrnjeet222/Resume.pdf";
+    window.location.href = "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/CV.pdf";
   }, []);
 
   return null;

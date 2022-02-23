@@ -37,7 +37,7 @@ export const projects = [
     ext: "BSC",
     lang: "js",
     git: "https://github.com/tomiwolf/nft-marketplace-BSC",
-    live: "",
+    live: "https://nft-marketplace-bsc-testnet.netlify.app/",
   },
   {
     img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/openseacarpis.png",

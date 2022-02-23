@@ -26,7 +26,7 @@ export const projects = [
   {
     img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/biolink.png",
     name: "ExBiolink",
-    ext: "py",
+    ext: "",
     lang: "py,games",
     git: "https://github.com/tomiwolf/portfolio-tomiwolf/blob/main/src/assets/biolink.png",
     live: "https://bio.link/tomiwolf",

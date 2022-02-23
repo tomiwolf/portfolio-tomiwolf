@@ -8,7 +8,7 @@ export const projects = [
     live: "https://boredcreepycapybaras.vercel.app/",
   },
   {
-    img: "https://cdn.jsdelivr.net/gh/tomiwolf/loopbitv1@main/assets/images/testimonial/loopbitScrenshot.png",
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/loopbit.png",
     name: "Loopbit",
     ext: "app",
     lang: "py",

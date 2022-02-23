@@ -50,7 +50,7 @@ export const projects = [
   {
     img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/thewolfgame.png",
     name: "TheWolfGame",
-    ext: "jsx",
+    ext: "Rinkeby",
     lang: "js",
     git: "https://github.com/tomiwolf/thelobogame",
     live: "https://thewolfgame.netlify.app/",

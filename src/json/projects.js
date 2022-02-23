@@ -16,7 +16,7 @@ export const projects = [
     live: "https://www.loopbit.app/",
   },
   {
-    img: "https://raw.githubusercontent.com/smrnjeet222/Python_Apps/master/Rock-Paper-Scissors/demo.jpg",
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/rock-paper-scissors@main/public/images/piedrapaeltijera.png",
     name: "Rock-Paper-Scisors",
     ext: "js",
     lang: "js,games",

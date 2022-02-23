@@ -32,11 +32,11 @@ export const projects = [
     live: "https://bio.link/tomiwolf",
   },
   // {
-  //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/portfolio.png",
-  //   name: "Old Portfolio",
+  //   img: "https://cdn.jsdelivr.net/gh/tomiwolf/nft-marketplace-BSC@main/nftview.png",
+  //   name: "NFT MARKETPLACE",
   //   ext: "js",
   //   lang: "js",
-  //   git: "https://github.com/smrnjeet222/Portfolio",
+  //   git: "",
   //   live: "https://smrnjeet222.github.io/Portfolio/",
   // },
   // {

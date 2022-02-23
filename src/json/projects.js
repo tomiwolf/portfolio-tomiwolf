@@ -47,14 +47,14 @@ export const projects = [
     git: "https://github.com/tomiwolf/myNFTcollection",
     live: "https://testnets.opensea.io/collection/bored-creepy-carpinchos",
   },
-  // {
-  //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/surepass/bgvAll.png",
-  //   name: "Surepass",
-  //   ext: "jsx",
-  //   lang: "js",
-  //   git: "https://github.com/smrnjeet222/Surepass/blob/main/README.md",
-  //   live: "https://github.com/smrnjeet222/Surepass/blob/main/README.md",
-  // },
+  {
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/thewolfgame.png",
+    name: "TheWolfGame",
+    ext: "jsx",
+    lang: "js",
+    git: "https://github.com/tomiwolf/thelobogame",
+    live: "https://thewolfgame.netlify.app/",
+  },
   // {
   //   img: "https://raw.githubusercontent.com/smrnjeet222/Python_Apps/master/SudokuSolver/2.png",
   //   name: "Sudoku Solver",

@@ -55,14 +55,14 @@ export const projects = [
     git: "https://github.com/tomiwolf/thelobogame",
     live: "https://thewolfgame.netlify.app/",
   },
-  // {
-  //   img: "https://raw.githubusercontent.com/smrnjeet222/Python_Apps/master/SudokuSolver/2.png",
-  //   name: "Sudoku Solver",
-  //   ext: "py",
-  //   lang: "py,games",
-  //   git: "https://github.com/smrnjeet222/Python_Apps/tree/master/SudokuSolver",
-  //   live: "https://github.com/smrnjeet222/Python_Apps/tree/master/SudokuSolver",
-  // },
+  {
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/Piggydapp@main/public/demo2.png",
+    name: "Piggys minting Dapp",
+    ext: "eth",
+    lang: "",
+    git: "https://github.com/tomiwolf/Piggydapp",
+    live: "https://piggydapp.vercel.app/",
+  },
   // {
   //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/newslaundry.png",
   //   name: "Newslaundry",

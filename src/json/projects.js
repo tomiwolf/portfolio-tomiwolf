@@ -45,7 +45,7 @@ export const projects = [
     ext: "Rinkeby",
     lang: "eth",
     git: "https://github.com/tomiwolf/myNFTcollection",
-    live: "https://testnets.opensea.io/collection/bored-creepy-carpinchos",
+    live: "https://testnets.opensea.io/collection/boredcreppycarpinchos",
   },
   {
     img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/thewolfgame.png",

@@ -71,14 +71,14 @@ export const projects = [
     git: "https://github.com/tomiwolf/Mint_Tokens_App",
     live: "https://minttokensapp.vercel.app/mint-token",
   },
-  // {
-  //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/recipe.jpg",
-  //   name: "Recipe App",
-  //   ext: "jsx",
-  //   lang: "js",
-  //   git: "https://github.com/smrnjeet222/recipe-app",
-  //   live: "https://smrnjeet222.github.io/recipe-app/",
-  // },
+  {
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/awcapital.png",
+    name: "Aw-Capital",
+    ext: "html",
+    lang: "js",
+    git: "https://awcapital.netlify.app/",
+    live: "https://github.com/tomiwolf/Awcapital2",
+  },
   // {
   //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/bubblesort.png",
   //   name: "Visualisations",

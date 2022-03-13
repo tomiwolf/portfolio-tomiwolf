@@ -7,14 +7,14 @@ export const projects = [
     git: "https://github.com/tomiwolf/next_minting_dapp",
     live: "https://boredcreepycapybaras.vercel.app/",
   },
-  {
-    img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/loopbit.png",
-    name: "Loopbit",
-    ext: "app",
-    lang: "py",
-    git: "https://github.com/tomiwolf/loopbitv1",
-    live: "https://www.loopbit.app/",
-  },
+  // {
+  //   img: "https://cdn.jsdelivr.net/gh/tomiwolf/portfolio-tomiwolf@main/src/assets/loopbit.png",
+  //   name: "Loopbit",
+  //   ext: "app",
+  //   lang: "py",
+  //   git: "https://github.com/tomiwolf/loopbitv1",
+  //   live: "https://www.loopbit.app/",
+  // },
   {
     img: "https://cdn.jsdelivr.net/gh/tomiwolf/rock-paper-scissors@main/public/images/piedrapaeltijera.png",
     name: "Rock-Paper-Scisors",

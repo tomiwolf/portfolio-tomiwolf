@@ -79,14 +79,14 @@ export const projects = [
     git: "https://awcapital.netlify.app/",
     live: "https://github.com/tomiwolf/Awcapital2",
   },
-  // {
-  //   img: "https://cdn.jsdelivr.net/gh/tomiwolf/D-Tasks3.0@main/screenshot.png",
-  //   name: "Task manager 3.0",
-  //   ext: "js",
-  //   lang: "js",
-  //   git: "",
-  //   live: "https://editor.p5js.org/smrnjeet222/sketches/T0o5woDT5",
-  // },
+  {
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/D-Tasks3.0@main/screenshot.png",
+    name: "Task manager 3.0",
+    ext: "eth",
+    lang: "eth",
+    git: "",
+    live: "https://editor.p5js.org/smrnjeet222/sketches/T0o5woDT5",
+  },
   // {
   //   img: "https://raw.githubusercontent.com/smrnjeet222/smrnjeet222/master/assets/dumpBox.png",
   //   name: "DumpBox",

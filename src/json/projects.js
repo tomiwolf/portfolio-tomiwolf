@@ -56,7 +56,7 @@ export const projects = [
     live: "https://thewolfgame.netlify.app/",
   },
   {
-    img: "https://cdn.jsdelivr.net/gh/tomiwolf/Piggydapp@main/public/demo2.png",
+    img: "https://cdn.jsdelivr.net/gh/tomiwolf/Piggydapp@main/public/images/Screenshot%20from%202022-04-18%2016-18-13.png",
     name: "Piggys minting Dapp",
     ext: "eth",
     lang: "eth",
